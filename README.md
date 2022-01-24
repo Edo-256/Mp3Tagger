@@ -1,7 +1,7 @@
 # Mp3Tagger
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Mp3Tagger is a simple program that allow you to automaticaly add title, album, artist \
+Mp3Tagger is a simple program that allow you to automatically add title, album, artist \
 to yours mp3 files only based on their location.
 
 ## ⚠️WARNING⚠️
