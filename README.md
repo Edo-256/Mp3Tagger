@@ -12,7 +12,7 @@ to yours mp3 files only based on their location.
 - I suggest to make a backup of your input directory before use the program, i will not assume any responsibility about data losses
 
 ## Program Logic
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Edo-256/Mp3Tagger/blob/main/diagram/graph.png)
 
 ## Usage
 ```sh
