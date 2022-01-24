@@ -6,9 +6,9 @@ to yours mp3 files only based on their location.
 
 ## ⚠️WARNING⚠️
 
-- This program automaticaly rename all yours mp3 files in a format compatible with all type of devices (even older mp3s)
-- Make sure that you launch the program in the right directory to prevent file losses or file corruption
-- Make sure that ALL your files in the directory where you launch the program are all mp3s
+- This program automatically rename all yours mp3 files in a format compatible with all type of devices (even older mp3s)
+- Make sure that you input the right directory to prevent file losses or file corruption
+- Make sure that ALL your files in the input_directory are all mp3s
 - I suggest to make a backup of your input directory before use the program, i will not assume any responsibility about data losses
 
 ## Program Logic
