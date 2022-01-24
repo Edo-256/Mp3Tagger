@@ -14,7 +14,14 @@ to yours mp3 files only based on their location.
 ## Program Logic
 ![alt text](https://github.com/Edo-256/Mp3Tagger/blob/main/diagram/graph.png)
 
-## Usage
+## Usage (Not jar)
+```sh
+javac Mp3AutoEncoder.java
+```
+```sh
+java Mp3AutoEncoder <selected-directory>
+
+## Usage (jar)
 ```sh
 java –jar <ExecutableJarFileName>.jar
 ```
