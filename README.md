@@ -20,6 +20,7 @@ javac Mp3AutoEncoder.java
 ```
 ```sh
 java Mp3AutoEncoder <selected-directory>
+```
 
 ## Usage (jar)
 ```sh
