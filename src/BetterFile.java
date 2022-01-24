@@ -3,9 +3,6 @@ package src;
 import java.io.*;
 import java.util.Scanner;
 
-//Ricordiamo che prende in input solo directory assolute
-//Come deciso dal nostro standard
-
 public class BetterFile{
 
     public String complete_dir;
