@@ -15,17 +15,25 @@ to yours mp3 files only based on their location.
 ![alt text](https://github.com/Edo-256/Mp3Tagger/blob/main/diagram/graph.png)
 
 ## Usage (Not jar)
+Compile
 ```sh
 javac Mp3AutoEncoder.java
 ```
+With program input
+```sh
+java Mp3AutoEncoder
+```
+With cmd launch input
 ```sh
 java Mp3AutoEncoder <selected-directory>
 ```
 
 ## Usage (jar)
+With program input
 ```sh
 java –jar <ExecutableJarFileName>.jar
 ```
+With cmd launch input
 ```sh
 java –jar <ExecutableJarFileName>.jar <selected-directory>
 ```
