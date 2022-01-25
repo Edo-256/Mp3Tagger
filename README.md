@@ -41,7 +41,7 @@ java –jar <ExecutableJarFileName>.jar <selected-directory>
 
 | Library | Link |
 | ------ | ------ |
-| Mp3agic | [https://github.com/mpatric/mp3agic][PlDb] |
+| Mp3agic | [https://github.com/mpatric/mp3agic] |
 
 ## Development
 
